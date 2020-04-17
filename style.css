@@ -1,0 +1,18 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+}
+
+input{
+    background: green;
+    border-radius: 9px;
+    width: 112px;
+    height: 38px;
+    color: white;
+    font-weight: 700;
+}
